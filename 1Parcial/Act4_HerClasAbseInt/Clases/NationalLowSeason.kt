@@ -1,7 +1,7 @@
 package Clases
 
-import Cancelable
-import Descuento
+import Interfaces.Cancelable
+import Interfaces.Descuento
 
 class NationalLowSeason(ciudad: String) : Nacional(ciudad), Descuento, Cancelable {
 
