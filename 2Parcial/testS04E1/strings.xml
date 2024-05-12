@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">compListsySpinnsRNBE</string>
+    <string name="titulo_app">testS04E1</string>
+
+    <!-- Strings por defecto (ingles) -->
+    <string name="txt_en">Select your Country</string>
+    <string name="txt_boton_en">Next</string>
+
+    <!-- Strings de los demás idiomas -->
+    <!-- Español -->
+    <string name="txt_es">Selecciona tu país</string>
+    <string name="txt_boton_es">Siguiente</string>
+
+    <!-- Portugués -->
+    <string name="txt_pt">Selecione o seu país</string>
+    <string name="txt_boton_pt">Próximo</string>
+
+    <!-- Francés -->
+    <string name="txt_fr">Sélectionnez votre pays</string>
+    <string name="txt_boton_fr">Suivant</string>
+
+    <!-- Alemán -->
+    <string name="txt_de">Wählen Sie Ihr Land</string>
+    <string name="txt_boton_de">Weiter</string>
+
+    <!-- Italiano -->
+    <string name="txt_it">Seleziona il tuo paese</string>
+    <string name="txt_boton_it">Avanti</string>
+</resources>
