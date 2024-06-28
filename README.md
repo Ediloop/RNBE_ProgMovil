@@ -1,2 +1,2 @@
-# RNBE_ProgMovil
-Rodriguez Nicolas Blanca Edith_6NM61_Programación Móvil
+# RNBE_Prog
+Rodriguez Nicolas Blanca Edith__Programación Móvil y web
